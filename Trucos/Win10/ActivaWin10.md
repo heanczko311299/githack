@@ -25,6 +25,5 @@ Debes ingresar como administrador a CMD, sustituye el número de serie de acuerd
 * **Windows 10 Enterprise 2015 LTSB:** WNMTR-4C88C-JK8YV-HQ7T2-76DF9
 * **Windows 10 Enterprise 2015 LTSB N:** 2F77B-TNFGY-69QQF-B8YKP-D69TJ
 
-> Dudas o comentarios en discord: heanczko#4478 
 h4Ppy #@cK1n6 :)
-
+> Discord: heanczko#4478
