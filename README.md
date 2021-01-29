@@ -14,7 +14,8 @@
 ### CTF
 * **link**
 * **link**
-* **link**
-* **link**
+### Metodologias
+### Herramientas
+### Maquinas Vulnerables
 
 > Duda o comentarios en discord: heanczko#4478 | h4Ppy #@cK1n6 :)
