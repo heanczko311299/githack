@@ -1,6 +1,21 @@
-#CYBER KILL CHAIN
+# CYBER KILL CHAIN
 
 > Si bien se podría pensar que un hacker hace lo que quiere con un sistema, y tiene acceso a toda la información en el momento que lo desee, esto tiene mas parecido a un guion de Hollywood, que lo que sucede en realidad, ya que se sigue un proceso establecido para comprender y explotar objetivos, se puede compara con la industria militar, conceptos de ajedrez lleva mas un concepto de ataque y defensa Esto asegura que haya coherencia entre cómo se realizan las evaluaciones en toda la industria y es la metodología la que impulsa el tipo
+
+## ¿Que es?
+
+Marco de trabajo para un pentest desde una perspectiva militar y que ayudar a gestionar la seguridad de la información en las empresas.
+
+Cyber Kill Chain es un modelo de ataque de los años 90 desarrollado por la Fuerza Aérea de los Estados Unidos. 
+
+Se base en el F2T2EA para llevar a cabo una operación militar:
+
+* **1. Encontrar (Find)**
+* **2. Asegurar (Fix)**
+* **3. Rastrear (Track)**
+* **4. Elegir blanco (Target)**
+* **5. Abordar (Engage)**
+* **6.Evaluar (Assess)**
 
 ¿Qué proceso sigue un atacante?
 
