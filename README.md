@@ -8,6 +8,6 @@
 ### Maquinas Vulnerables
 ### Trucos
 ### Mis otros Repos
-* **CEH** - *Curso EC-Council v10* - [ir](https://github.com/heanczko311299/CEH)
+* **CEH** - [Curso EC-Council v10](https://github.com/heanczko311299/CEH)
 
 > Duda o comentarios en discord: heanczko#4478 | h4Ppy #@cK1n6 :)
