@@ -1,8 +1,6 @@
-CYBER KILL CHAIN
+#CYBER KILL CHAIN
 
-Introduccion
-
-Si bien se podría pensar que un hacker hace lo que quiere con un sistema, y tiene acceso a toda la información en el momento que lo desee, esto tiene mas parecido a un guion de Hollywood, que lo que sucede en realidad, ya que se sigue un proceso establecido para comprender y explotar objetivos, se puede compara con la industria militar, conceptos de ajedrez lleva mas un concepto de ataque y defensa Esto asegura que haya coherencia entre cómo se realizan las evaluaciones en toda la industria y es la metodología la que impulsa el tipo
+> Si bien se podría pensar que un hacker hace lo que quiere con un sistema, y tiene acceso a toda la información en el momento que lo desee, esto tiene mas parecido a un guion de Hollywood, que lo que sucede en realidad, ya que se sigue un proceso establecido para comprender y explotar objetivos, se puede compara con la industria militar, conceptos de ajedrez lleva mas un concepto de ataque y defensa Esto asegura que haya coherencia entre cómo se realizan las evaluaciones en toda la industria y es la metodología la que impulsa el tipo
 
 ¿Qué proceso sigue un atacante?
 
@@ -43,3 +41,6 @@ Se establece control del backdoor o implante instalado, para continuar operacion
 ACCION EN EL OBJETIVO
 
 Ya con el control del acceso, el criminal buscara obtener acceso el mayor tiempo posible. +Tiempo = +Daño
+
+h4Ppy #@cK1n6 :)
+> Discord: heanczko#4478
