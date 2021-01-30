@@ -1,10 +1,11 @@
 # githack
-> Repositorio de hacking en español, todos los recursos expuestos aqui son con fines educativos, el uso de ellos es responsabilidad de quien los ejecuta, ningun recurso es publicado con fines de lucro, si alguna herramienta tiene algun costo por una version Pro, es a consideracion del usuario, las practicas de este repo no requieren versiones de paga, sin embargo el objetivo de una version de paga es ofrecer mejores insumos que una gratuita
+> Repositorio de pentest en español, todos los recursos expuestos aqui son con fines educativos, el uso de ellos es responsabilidad de quien los ejecuta, ningun recurso es publicado con fines de lucro, si alguna herramienta tiene algun costo por una version Pro, es a consideracion del usuario, las practicas de este repo no requieren versiones de paga, sin embargo el objetivo de una version de paga es ofrecer mejores insumos que una gratuita
 ## CONTENIDO
+* **[Laboratorio-Pentest](https://github.com/heanczko311299/githack/tree/main/Metodologias)**
 * **[Metodologías](https://github.com/heanczko311299/githack/tree/main/Metodologias)**
 * **[Técnicas](https://github.com/heanczko311299/githack/tree/main/Metodologias)**
 * **[Trucos](https://github.com/heanczko311299/githack/tree/main/Trucos)**
-* **[VMs Hackeables](https://github.com/heanczko311299/githack/tree/main/Metodologias)**
+
 ### Hacking Webs
 * **[Exploit-DB](https://www.exploit-db.com/)**
 * **[Kali-Forums](https://forums.kali.org/)**
