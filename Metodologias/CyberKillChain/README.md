@@ -3,6 +3,7 @@
 > Si piensas que un hacker es aquel que controla todos los sistemas y hace lo que quiere con ellos, deberias alejarte de Hollywood, lo que sucede en realidad se sigue un proceso establecido para comprender y explotar objetivos. Existen metodologias que aseguran que haya coherencia entre cómo se realizan las evaluaciones en toda la industria."LA METODOLOGIA ES LA QUE IMPULSA EL TIPO DE EVALUACION."
 
 ## ¿QUE ES CYBER KILL CHAIN?
+* **[Oficial](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)**
 
 Marco de trabajo para un ataque cibernetico desde una perspectiva militar y que ayudar a gestionar la seguridad de la información en las empresas.
 
