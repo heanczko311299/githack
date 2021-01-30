@@ -25,7 +25,7 @@ Y se crea la cadena de ataque con 7 pasos, que sirven para realizar un ataque o 
 * **4. Explotación (Exploitation)**
 * **5. Instalación (Installation)**
 * **6. Mando & Control (Command & Control)**
-* **6. Acciones en el objetivo (Actions on Objectives)**
+* **7. Acciones en el objetivo (Actions on Objectives)**
 
 ### RECONOCIMIENTO
 
