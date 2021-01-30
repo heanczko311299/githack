@@ -7,11 +7,12 @@
 * **[VMs Hackeables](https://github.com/heanczko311299/githack/tree/main/Metodologias)**
 ### Hacking Webs
 * **[Exploit-DB](https://www.exploit-db.com/)**
-* **[Kali-Linux](https://www.kali.org/)**
+* **[Kali-Forums](https://forums.kali.org/)**
 * **[Underc0de](https://underc0de.org/)**
 * **[Kali76-Russia](https://kali76.ru/)**
-* **[BlackArch-Linux](https://blackarch.org/)**
+* **[BlackArch-Repo](https://github.com/BlackArch)**
 * **[TryHackMe](https://tryhackme.com/)** [WriteUps](https://github.com/heanczko311299/githack/tree/main/Metodologias)
+
 ### Mis otros Repos
 * **[Curso EC-Council v10](https://github.com/heanczko311299/CEH)**
 
