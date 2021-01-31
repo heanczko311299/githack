@@ -11,7 +11,8 @@
 * **[Kali76-Russia](https://kali76.ru/)**
 * **[BlackArch-Repo](https://github.com/BlackArch)**
 * **[Exploit-DB](https://www.exploit-db.com/)**
-* **[TryHackMe](https://tryhackme.com/)** [WriteUps](https://github.com/heanczko311299/githack/tree/main/Metodologias)
+* **[HackTheBox](https://www.hackthebox.eu/)**
+* **[TryHackMe](https://tryhackme.com/)**
 
 ### Mis otros Repos
 * **[Curso EC-Council v10](https://github.com/heanczko311299/CEH)**
