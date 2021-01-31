@@ -1,9 +1,9 @@
 # githack
 > Repositorio de pentest en español, todos los recursos expuestos aqui son con fines educativos, el uso de ellos es responsabilidad de quien los ejecuta, ningun recurso es publicado con fines de lucro, si alguna herramienta tiene algun costo por una version Pro, es a consideracion del usuario, las practicas de este repo no requieren versiones de paga, sin embargo el objetivo de una version de paga es ofrecer mejores insumos que una gratuita
 ## CONTENIDO
-* **[Metodologías](https://github.com/heanczko311299/githack/tree/main/Metodologias)**
-* **[Técnicas](https://github.com/heanczko311299/githack/tree/main/Metodologias)**
-* **[Trucos](https://github.com/heanczko311299/githack/tree/main/Trucos)**
+* **[Metodologías](https://github.com/heanczko311299/githack/tree/main/Metodologias/README.md)**
+* **[Herramientas](#)**
+* **[Trucos](https://github.com/heanczko311299/githack/tree/main/Trucos/README.md)**
 
 ### Pententing Webs
 * **[Kali-Forums](https://forums.kali.org/)**
