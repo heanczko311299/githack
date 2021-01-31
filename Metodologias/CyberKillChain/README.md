@@ -25,37 +25,44 @@ Y se crea la cadena de ataque con 7 pasos, que sirven para realizar un ataque o 
 * **3. Entrega (Delivery)**
 * **4. Explotación (Exploitation)**
 * **5. Instalación (Installation)**
-* **6. Mando & Control (Command & Control)**
+* **6. Mando y Control (Command & Control)**
 * **7. Acciones en el objetivo (Actions on Objectives)**
 
-### RECONOCIMIENTO
+### 1. Reconocimiento (Recoonnaissance)
 
 Un atacante selecciona un objetivo individual y crea un perfil de la víctima. Los datos de contacto del objetivo, como la información de las redes sociales, la dirección de correo electrónico y otros datos de los empleados o de la empresa en cuestión, se investigan específicamente. Esto también incluye detalles sobre la estructura de TI en la empresa. 
 Esta información debe responder cualquier duda de la militarización y la entrega.
 
-### MILITARIZACION
+### 2. Militarizacion (Weaponization)
 
-El atacante planea las herramientas seleccionadas de su repertorio para llevar a cabo un ataque, basado en reconocimiento, pero también se pueden utilizar otros programas maliciosos. La elección depende del enfoque y objetivo del cibercriminal, lo hace prediciendo los vectores repetitivos de la victima como son ciclo del error y confianza totemica, si no puedes militarizar debes volver a reconocer.
+El atacante planea las herramientas que usará de su repertorio para llevar a cabo el ataque, basado en reconocimiento, pero también se pueden utilizar otros programas maliciosos. La elección depende del enfoque y objetivo del atacante, lo hace prediciendo los vectores repetitivos de la victima como son ciclo del error y confianza. Totem y Tabu 
 
-### ENTREGA
+> Si no puedes militarizar debes volver a reconocer.
 
-En la seleccion de la entrega se puede utilizar un determinado puerto de un servidor, algun input vulnerable, una memoria USB, la comunicación por correo electrónico, redes sociales para ataques de phishing a través de sitios web maliciosos. Pero el objetivo es entregar el exploit, no solo la eleccion, si no puedes entregar debes volver a militarizar o reconocer.
+### 3. Entrega (Delivery)
 
-### EXPLOTACION
+En la seleccion de la entrega se puede utilizar un determinado puerto de un servidor, algun input vulnerable, una memoria USB, la comunicación por correo electrónico, redes sociales para ataques de phishing a través de sitios web maliciosos
+El objetivo es entregar el exploit, no solo la eleccion
+> Si no puedes entregar debes volver a militarizar o reconocer
 
-No puede ocurrir si no se realizo la entrega, el criminal explota lo que entrego, regularmente sigue los vectores repetitivos, utilizando los medios de entrega.
+### 4. Explotación (Exploitation)
 
-### INSTALACION
+El atacante explota lo que entrego, regularmente sigue los vectores repetitivos, utilizando los medios de entrega.
+> No puede explotar algo que no se entrego
 
-El atacante se instala en el sistema, ve el alcance y los privilegios que puede escalar, pero el objetivo es encontrar una forma de poder mantener el acceso y no ser visto, instalan Backdoor o implantes que permitan la persistencia de la sesion. En varias conferencias de DEFCon y BlakHat se ha comentado que aqui inicia el verdadero pentest.
+### 5. Instalación (Installation)
 
-### MANDO & CONTROL
+El atacante se instala en el sistema, ve el alcance los privilegios que puede escalar, pero el objetivo es encontrar una forma de poder mantener el acceso y no ser visto, se instalan Backdoor o implantes que permitan la persistencia de la sesion. 
+> En varias conferencias de DEFCon y BlakHat se ha comentado que aqui inicia el verdadero pentest.
 
-Se establece control del backdoor o implante instalado y gestiona el acceso para continuar operaciones de manera remota, se pueden cubrir las huellas o realizar pivoting. Si necesitas volver a realizar la explotación para acceder, no estas en esta etapa, necesitas volver a instalarte en un acceso remoto.
+### 6. Mando y Control (Command & Control)
 
-### ACCION EN EL OBJETIVO
+Se establece control del backdoor o implante instalado y gestiona el acceso para continuar operaciones de manera remota, se pueden cubrir las huellas o realizar pivoting. 
+> Si necesitas volver a realizar la explotación para acceder, no estas en esta etapa, necesitas volver a instalarte en un acceso remoto.
 
-Ya con el control del acceso, el atacante buscara acceder el mayor tiempo posible, buscará obtener otros accesos ilegales, y otros puntos de acceso donde pueda ejecutar nuevos ataques CyberKillChain.
+### 7. Acciones en el objetivo (Actions on Objectives)
+
+Ya con el control del acceso, el atacante buscara acceder el mayor tiempo posible, buscará obtener otros accesos ilegales y otros puntos de acceso donde pueda ejecutar nuevos ataques CyberKillChain.
 
 h4Ppy #@cK1n6 :)
 > Discord: heanczko#4478
