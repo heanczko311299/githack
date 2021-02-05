@@ -14,7 +14,8 @@
 * **[TryHackMe](https://tryhackme.com/)**
 
 ### Mis otros Repos
-* **[Curso EC-Council v10](https://github.com/heanczko311299/CEH/blob/main/README.md)**
+* **[Curso EC-Council CEHv10](https://github.com/heanczko311299/CEH/blob/main/README.md)**
+* **[Curso CompTIA Pentest +](https://github.com/heanczko311299/Pentest_Plus/blob/main/README.md)**
 
 h4Ppy #@cK1n6 :)
 > Discord: heanczko#4478
